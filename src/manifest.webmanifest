@@ -1,0 +1,28 @@
+{
+    "name": "Mike Thierman",
+    "short_name": "Mike Thierman",
+    "description": "Audio, Design, Development",
+    "start_url": "/",
+    "background_color": "#04377F",
+    "theme_color": "#04377F",
+    "display": "standalone",
+    "orientation": "any",
+    "dir": "auto",
+    "lang": "en-CA",
+    "icons": [
+        {
+            "src": "/icons/512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ],
+    "related_applications": [],
+    "prefer_related_applications": false
+}
